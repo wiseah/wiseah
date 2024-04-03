@@ -25,12 +25,35 @@ Here are some ideas to get you started:
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=wiseah&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
-
-![Hyunah's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseah&show_icons=true&theme=radical)
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=header&text=&fontSize=" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseah&show_icons=true&theme=light)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=footer&text=텍스트&fontSize=텍스트크기" />
+
+    <div>
+        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseah&show_icons=true&theme=maroongold)
+    </div>
 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=header" />
-<img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=footer" />
+
+<div align="center">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=header" />
+
+ ## ⚒️ Tech Stack
+  <div>
+    <div>
+      <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=Html5&logoColor=white&">
+      <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=Css3&logoColor=white">
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
+    <div>
+    <div>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
+      <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
+      <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+    </div>
+    <div>
+      <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+    </div>
+
+  </div>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=footer" />
+</div>
