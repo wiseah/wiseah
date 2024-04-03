@@ -25,10 +25,12 @@ Here are some ideas to get you started:
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=wiseah&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
 </a>
 
+
+![Hyunah's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseah&show_icons=true&theme=radical)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=header&text=&fontSize=" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseah&show_icons=true&theme=light)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=footer&text=텍스트&fontSize=텍스트크기" />
 -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=header" />
-![wiseah's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseah&show_icons=true&theme=radical)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=footer" />
