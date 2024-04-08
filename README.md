@@ -29,9 +29,6 @@ Here are some ideas to get you started:
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseah&show_icons=true&theme=light)
 <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=footer&text=텍스트&fontSize=텍스트크기" />
 
-    <div>
-        ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseah&show_icons=true&theme=maroongold)
-    </div>
 -->
 
 <div align="center">
@@ -54,6 +51,8 @@ Here are some ideas to get you started:
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
     </div>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseah&show_icons=true&theme=maroongold)
   </div>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=footer" />
 </div>
+
