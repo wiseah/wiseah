@@ -48,7 +48,7 @@ Here are some ideas to get you started:
     </div>
     <div>
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-    </div>
+    </div> 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseah&show_icons=true&theme=date_night)
   </div>
