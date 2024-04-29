@@ -45,8 +45,7 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
       <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
       <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
-    </div>
-        
+    </div>    
     <div>
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
     </div> 
