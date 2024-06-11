@@ -45,13 +45,19 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
       <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
       <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
-    </div>    
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%23FF8FCE&title_bg=%23FF0092&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+    </div>   
+   
+<!--
     <div>
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
-    </div> 
+    </div>
+-->
 
 ![Hyunah's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseah&show_icons=true&theme=date_night)
-  </div>
+
+</div>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=footer" />
 </div>
 
