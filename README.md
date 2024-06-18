@@ -31,6 +31,11 @@ Here are some ideas to get you started:
 <div align="center">
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=header" />
 
+ # Hi, I'm Hyunah-Kim🙋🏻‍♀️
+ I'm developing to create social value. <br/>
+ I like to create a "better world" by gaining vitality through collaboration with people <br/>
+ and achieving good results through vitality.
+ 
  ## ⚒️ Tech Stack
   <div>
     <div>
@@ -54,6 +59,48 @@ Here are some ideas to get you started:
 -->
 
 ![Hyunah's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseah&show_icons=true&theme=date_night)
+
+ ## 💬 About me
+
+<div align="left">
+     
+### 🌼 Hankuk University of Foreign Studies
+    
+> 🌸 Major(2021.03~): Department of Environmental Science <br />
+> 🌸 Double major(2022.03~): Software & AI Convergence Major <br />
+> 💌 E-mail: hyunah2765@gmail.com <br />
+> 📝 velog: https://velog.io/@wiseah <br />
+
+### 🌼 MY Services...
+> **🍚 이츠타임** ➡️ https://eatstime.vercel.app <br />
+> **📸 네컷일기** ➡️ https://4cutsdiary.klr.kr <br />
+> **🐛 GQ: 한 손에 담긴 해충 알림 센터** ➡️ https://hufs-gq.vercel.app
+
+</div>
+
+ ## 🔥 Activities
+ <div align="left">
+     
+> 2021
+- 창업 동아리 SK LOOKIE 4기
+> 2022
+- 창업 동아리 SK LOOKIE 개발PL
+- 한국외대 학생 IT 자치기구 HUFSTORY
+- 외상청 프로젝트(HUFSTORY)
+> 2023
+- 한국외국어대학교 AI/SW 창업프로젝트 우수상 (못난이 과일을 활용한 담금주 키트)
+- 한국외국어대학교 멋쟁이사자처럼 11기 FE 트랙
+- 멋쟁이사자처럼 미니프로젝트 “힘짜속 쓰레기통”팀
+- 멋쟁이사자처럼 중앙 해커톤 “황금연금”팀
+> 2024
+- 한국외국어대학교 멋쟁이사자처럼 12기 부대표
+- 구름톤 유니브 한국외대 2기 (벚꽃톤 - 11팀 이츠타임)
+- 멋쟁이사자처럼 미니프로젝트 "네컷일기"팀
+- 한국외국어대학교 종합설계 "GQ"
+- 구름톤 유니브 한국외대 3기 대표
+  </div>
+
+
 
 </div>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=ffc0cb&height=150&section=footer" />
