@@ -95,9 +95,11 @@ Here are some ideas to get you started:
 > 2024
 - 한국외국어대학교 멋쟁이사자처럼 12기 부대표
 - 구름톤 유니브 2기 한국외대 미르미 (벚꽃톤 - 11팀 이츠타임)
+- 구름톤 유니브 3기 한국외대 대표
 - 멋쟁이사자처럼 미니프로젝트 "네컷일기"팀
 - 한국외국어대학교 종합설계 "GQ"
-- 구름톤 유니브 3기 한국외대 대표
+- HUFSummer Hackathon "Donation of Legend"
+
   </div>
 
 
