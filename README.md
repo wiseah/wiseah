@@ -58,7 +58,7 @@ Here are some ideas to get you started:
     </div> //깃허브로고
 -->
 
-![Hyunah's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseah&show_icons=true&theme=date_night)
+![Hyunah's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseah&count_private=true&show_icons=true&theme=date_night)
 
  ## 💬 About me
 
