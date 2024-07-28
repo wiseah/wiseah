@@ -99,7 +99,6 @@ Here are some ideas to get you started:
 - 멋쟁이사자처럼 미니프로젝트 "네컷일기"팀
 - 한국외국어대학교 종합설계 "GQ"
 - HUFSummer Hackathon "Donation of Legend"
-
   </div>
 
 
