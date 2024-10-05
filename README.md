@@ -75,7 +75,7 @@ Here are some ideas to get you started:
 > **🍚 이츠타임** ➡️ https://eatstime.vercel.app <br />
 > **📸 네컷일기** ➡️ https://4cutsdiary.klr.kr <br />
 > **🐛 GQ: 한 손에 담긴 해충 알림 센터** ➡️ https://hufs-gq.vercel.app <br />
-> **🍇 밀당: 식품교환표를 통한 AI기반 맞춤형 식단 제공 서비스** ➡️ https://mealdang.vercel.app/
+> **🍇 밀당: 식품교환표를 통한 AI기반 맞춤형 식단 제공 서비스** ➡️ https://mealdang.vercel.app
 
 </div>
 
