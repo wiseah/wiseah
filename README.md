@@ -36,35 +36,44 @@ Here are some ideas to get you started:
  I like to create a "better world" by gaining vitality through collaboration with people <br/>
  and achieving good results through vitality.
  
- ## ⚒️ Tech Stack
-  <div>
+ ## ⚒️ Tech Stacks
+<div>
     <div>
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=Html5&logoColor=white&">
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=Css3&logoColor=white">
       <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/>
       <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white">
       <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/>
-    <div>
+    </div>
     <div>
       <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white">
       <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=black">
-      <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=Tailwind CSS&logoColor=white">
-      <img src="https://img.shields.io/badge/Emotion-DB7093?style=flat&logo=emotion&logoColor=white">
+      <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white">
+      <img src="https://img.shields.io/badge/👩‍🎤%20Emotion-DB7093?style=flat&logo=emotion&logoColor=white">
       <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styled-components&logoColor=white"/>
+    </div>
     <div>
+      <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=react-query&logoColor=white">
+      <img src="https://img.shields.io/badge/👻%20Jotai-1FAD8F?style=flat&logoColor=white">
+      <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/>   
+    </div>
     <div>
-      <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=testing-library&logoColor=white">
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
       <img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat&logo=githubactions&logoColor=white">
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
-        
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwiseah&count_bg=%23FF8FCE&title_bg=%23FF0092&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-    </div>   
+    </div>
+</div>  
    
 <!--
     <div>
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
     </div> //깃허브로고
+
+[![👻hits](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2Fwiseah?color=gray&label=👻hits&size=small)](https://myhits.vercel.app)
+    
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fwiseah&count_bg=%23FF8FCE&title_bg=%23FF0092&icon=ghostery.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 -->
 
 ![Hyunah's GitHub stats](https://github-readme-stats.vercel.app/api?username=wiseah&count_private=true&show_icons=true&theme=date_night)
@@ -112,6 +121,10 @@ Here are some ideas to get you started:
 - 한국외국어대학교 종합설계 "GQ"
 - HUFSummer Hackathon "Donation of Legend"
 - 멋쟁이사자처럼 중앙 해커톤 "밀당(Meal당)"
+- 멋쟁이사자처럼 12기 운영진 프로젝트 "Mo:zip"
+
+> 2025
+- 구름톤 유니브 4기 중앙 운영단 OP팀
   </div>
 
 
