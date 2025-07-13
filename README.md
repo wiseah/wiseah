@@ -56,9 +56,6 @@ Here are some ideas to get you started:
       <img src="https://img.shields.io/badge/TanStack%20Query-FF4154?style=flat&logo=react-query&logoColor=white">
       <img src="https://img.shields.io/badge/👻%20Jotai-1FAD8F?style=flat&logoColor=white">
       <img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=Recoil&logoColor=white"/>   
-    </div>
-    <div>
-      <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=testing-library&logoColor=white">
       <img src="https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white">
       <img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat&logo=githubactions&logoColor=white">
       <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white">
@@ -67,6 +64,7 @@ Here are some ideas to get you started:
    
 <!--
     <div>
+    <img src="https://img.shields.io/badge/Playwright-2EAD33?style=flat&logo=testing-library&logoColor=white">
       <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
     </div> //깃허브로고
 
